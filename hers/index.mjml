@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Thanks for your order!</mj-preview>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text color="#000000" font-family="Arial, sans-serif" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ECECEC">
+    <!-- HEADER SECTION -->
+    <mj-section background-color="#F5F5F5">
+      <mj-column>
+        <mj-image href="https://www.forhers.com" target="_blank" src="https://i.postimg.cc/fyV6D77S/logo.png" width="80px" padding-top="10px" padding-bottom="10px" alt="hers logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px" padding-bottom="25px">
+      <mj-section border-radius="10px">
+        <mj-column width="450px">
+          <mj-image align="center" href="https://www.hers.com" target="_blank" src="https://i.postimg.cc/gj11Jw4S/so-on.png" width="400px" padding-top="60px" padding-bottom="30px" padding-left="20px" padding-right="20px" alt="it's so on"></mj-image>
+          <mj-text align="center" font-size="20px" padding-left="20px" padding-right="20px" line-height="26px">Way to start a healthy habit. Your order's in the works, but there's more to explore in the meantime.</mj-text>
+          <mj-image src="https://i.postimg.cc/KvgdWNvd/bottle.png" padding-top="35px" padding-bottom="35px" alt="bottle of hers product"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- ORDER DETAILS SECTION -->
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px">
+      <mj-section padding-top="30px">
+        <mj-column>
+          <mj-text align="center" font-size="14px" font-weight="600" line-height="26px">Order details</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" font-size="14px" font-weight="600" line-height="26px"><a href="https://www.forhers.com" style="color:#000000;">Order ID: 1223344</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px">
+      <mj-section padding-top="25px">
+        <mj-column>
+          <mj-text align="center" color="#858487" font-size="14px" line-height="26px">Items ordered:</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" font-size="14px" line-height="26px">Detox Scalp Scrub</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px">
+      <mj-section padding-top="30px">
+        <mj-column>
+          <mj-divider border-width="1px" border-color="#858487" padding-right="20px" padding-left="20px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px">
+      <mj-section padding-top="35px" padding-bottom="30px">
+        <mj-column>
+          <mj-text align="center" color="#858487" font-size="14px" line-height="26px">Total Charge:</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" font-size="14px" line-height="26px">$44.00</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    </mj-wrapper>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px">
+      <mj-section padding-bottom="30px">
+        <mj-column>
+          <mj-text align="center" color="#858487" font-size="14px" line-height="26px">Payment Method:</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" font-size="14px" line-height="26px">Visa 1234</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px" padding-bottom="25px">
+      <mj-section padding-bottom="30px">
+        <mj-column>
+          <mj-text align="center" color="#858487" font-size="14px" line-height="26px">Date Paid:</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" font-size="14px" line-height="26px">2/29/24</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- WELLNESS SECTION -->
+    <mj-wrapper background-color="#F5F5F5" padding-right="8px" padding-left="8px" padding-bottom="25px">
+      <mj-section border-radius="11px">
+        <mj-column padding-top="60px" padding-left="20px">
+          <mj-text align="left" font-size="18px" padding-left="40px" font-weight="600">A World of wellness</mj-text>
+          <mj-text align="left" font-size="14px" line-height="22px" padding-left="40px" padding-right="40px" padding-top="25px">Get ahead of your health goals with free programs and content, right from the app.</mj-text>
+          <mj-button href="https://www.forhers.com" target="_blank" align="left" font-size="14px" border-radius="20px" height="45px" padding-left="35px" padding-top="30px" padding-bottom="50px" inner-padding="0px 26px">Get the app</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/wxrCFPHX/phone.png" alt="hand holding an iphone"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- FOOTER -->
+    <mj-section padding-top="40px">
+      <mj-column>
+        <mj-text align="center" font-size="14px" font-weight="600">Healthcare that feels like self-care</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- START OF SOCIAL ICONS -->
+    <mj-section padding-top="15px">
+      <mj-column width="200px">
+        <mj-text align="center">
+          <a href="https://www.facebook.com/wearehers" target="_blank"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c8177014939bf15c02c8d37/original.png?1551988481" width="35px" style="padding:5px;" /></a>
+          <a href="https://twitter.com/wearehers" target="_blank"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c8177014939bf14af2c8cf1/original.png?1551988481" width="35px" style="padding:5px;" /></a>
+          <a href="https://www.instagram.com/hers/" target="_blank"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c8177012827452d1c7592b0/original.png?1551988481" width="35px" style="padding:5px;" /></a>
+          <a href="https://www.tiktok.com/@hers" target="_blank"><img src="https://braze-images.com/appboy/communication/assets/image_assets/images/624cc4de62698f55c74ac44c/original.png?1649198302" width="35px" style="padding:5px;" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END OF SOCIAL ICONS -->
+    <mj-section padding-top="30px" padding-bottom="30px">
+      <mj-column>
+        <mj-text align="center" font-size="11px">&copy 2024 Hims, Inc.</mj-text>
+        <mj-text align="center" font-size="11px" padding-right="15px" padding-left="15px" line-height="18px">2269 Chestnut Street #523 | San Francisco | CA 94123</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="15px"><a href="https://www.forhers.com/privacy-policy" style="color:#000000;">Privacy Policy</a> | <a href="https://www.forhers.com/terms-and-conditions" style="color:#000000;">Terms of Service</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
